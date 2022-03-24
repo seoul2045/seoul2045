@@ -1,4 +1,4 @@
-### 🌱 I’m currently learning full-stack Ruby on Rails with the [Odin Project](https://www.theodinproject.com/).
+### 🌱 Full-stack Ruby on Rails Curriculum with the [Odin Project](https://www.theodinproject.com/).
 ### 🔭 I've been working on this [website](https://studiomezza-shop.herokuapp.com/) using Rails for a jewerly startup: 
 ### ⚡ [Ruby on Rails app using PostgreSQL, Bootstrap, jQuery](https://studiomezza-shop.herokuapp.com/)
 
