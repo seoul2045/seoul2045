@@ -1,4 +1,4 @@
-### 🌱 Open Source Contributor to the Full-stack Ruby on Rails Curriculum with the [Odin Project](https://www.theodinproject.com/).
+### 🌱 Open source contributor to the Full-stack Ruby on Rails Curriculum with the [Odin Project](https://www.theodinproject.com/).
 
 <!--
 **seoul2045/seoul2045** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
