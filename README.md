@@ -1,9 +1,9 @@
 ## 😄 About Me
-+ Remote Dev Cross-Functional Team Member Using Agile Scrum Practices
-+ Golang, GraphQL, Ruby on Rails, SQL, API Integration, Primarily Backend Dev
-+ Backed Development API Creation & Integration for Mobile E-Wallet & Admin BackOffice Web Apps
++ Golang Backend Dev
++ Remote Dev Team Member Using Agile Scrum Practices
++ Backend Development Financial Services API Creation & Integration: Mobile E-Wallet & Admin BackOffice Web Apps
 
-+ Skills: REST APIs · Back-End Web Development · API Development · Scrum · Agile Environment · PostgreSQL · Postman · Unit Testing · Representational State Transfer (REST) · Databases · GraphQL · Go (Programming Language)
++ Skills: REST APIs · Back-End Web Development · API Development · Scrum · Agile Environment · PostgreSQL · Postman · Unit Testing · Representational State Transfer (REST) · Databases · GraphQL · Go (Programming Language) · Gin Framework
 
 ### 💬 Open to Roles
 + Seeking remote Golang developer roles
