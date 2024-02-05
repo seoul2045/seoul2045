@@ -6,7 +6,6 @@
 + Skills: REST APIs · Back-End Web Development · API Development · Scrum · Agile Environment · PostgreSQL · Postman · Unit Testing · Representational State Transfer (REST) · Databases · GraphQL · Go (Programming Language) · Gin Framework · Microservice Architecture  
 
 ### 💬 Open to Roles
-+ Seeking remote Golang developer roles
 + Contact me: gkim2045@gmail.com
 
 #### 🌱 Open source contribution 
